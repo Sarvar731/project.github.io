@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@200;400;600&family=Raleway:wght@400;700&family=Roboto:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+    background-image: url(photo-1562562796-69301f0d8ec1.avif);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Poppins' , sans-serif;
+    margin: 0;
+}
+h1{
+    font-weight: normal;
+    font-size: 4rem;
+    margin-top: 5rem;
+
+}
+
+.countdown-container{
+    display: flex;
+}
+
+.big-text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+.countdown-el{
+    text-align: center;
+}
+.countdown-el span {
+    font-size: 1.3rem;
+}

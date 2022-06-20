@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@200;400;600&family=Raleway:wght@400;700&family=Roboto:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins' , sans-serif;
+    margin: 0;
+}
